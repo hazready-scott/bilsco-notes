@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Notes
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Public notes from Scott Ramey. Pages appear in the explorer on the left.
